@@ -1,0 +1,23 @@
+/* Grundlayout von der Seite */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Navigationsleiste & Footer; Bootsrap hat auch eine Klasse mit Namen nav deswegen our-nav */
+.our-nav, .footer {
+    background-color: #002060;
+    color: white;
+}
+
+.our-nav .nav-link, .footer a{
+    color: white;
+    margin-left: 10px;
+}
+
+/* Das Hauptinhaltsbereich den restlichen Platz einnimt bzw. Footer ganz unten ist */
+.footer {
+    margin-top: auto;
+    padding: 15px;
+}
