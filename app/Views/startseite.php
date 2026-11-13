@@ -16,7 +16,7 @@
             <ul class="navbar-nav">
                 <li><a class="nav-link" href="#">Tasks</a></li>
                 <li><a class="nav-link" href="#">Boards</a></li>
-                <li><a class="nav-link" href="#">Spalten</a></li>
+                <li><a class="nav-link" href="spalten">Spalten</a></li>
             </ul>
         </div>
     </nav>
